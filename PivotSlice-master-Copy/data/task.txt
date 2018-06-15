@@ -1,0 +1,6 @@
+What is the number of papers in this database?
+Find a paper called “Facilitating Discourse Analysis with Interactive Visualization” by adding "Collins, C." as an author filter. What is the year of publication?
+How many papers did "Kwan-Liu Ma" publish in "2012"?
+How many papers were published in "2014-2015" with a keyword "information visualization" (case sensitive)?
+How many papers were published in the “Vis” conference with a keyword “volume rendering” (case sensitive)? Also, name the author from this collection who has 5 publications?
+Find the paper with the highest reference count. From that paper name the author who has the highest number of publications, and the number of publications.
