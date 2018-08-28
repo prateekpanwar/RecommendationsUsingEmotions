@@ -6,3 +6,5 @@ PivotSlice is an interactive visualization system for exploring datasets contain
 Jian Zhao, Christopher Collins, Fanny Chevalier, and Ravin Balakrishnan. Interactive Exploration of Implicit and Explicit Relations in Faceted Datasets. IEEE Transactions on Visualization and Computer Graphics (Proceedings of VAST 2013), 20(12), pp. 2080-2089, Dec 2013.
 
 For more information, inlcuding video demos, please refer to the publication and visit the author's website at http://www.cs.toronto.edu/~jianzhao/.
+
+This interface was modified to add recommendation functionalities and receiving and analyzing the detected mental state.
